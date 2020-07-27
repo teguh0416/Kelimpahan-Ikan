@@ -1,1 +1,0 @@
-SELECT * FROM PRODUCT WHERE category = 'Handphone'
